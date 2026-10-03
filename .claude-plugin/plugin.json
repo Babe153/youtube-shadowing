@@ -1,0 +1,8 @@
+{
+  "name": "youtube-shadowing",
+  "version": "0.1.0",
+  "description": "Create faithful, sentence-by-sentence PDF handouts for YouTube shadowing practice.",
+  "author": {"name": "Babe153"},
+  "repository": "https://github.com/Babe153/youtube-shadowing",
+  "license": "MIT"
+}

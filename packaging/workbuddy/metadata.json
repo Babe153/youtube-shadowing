@@ -1,0 +1,9 @@
+{
+  "display_name": "YouTube 影子跟读",
+  "display_name_en": "YouTube Shadowing",
+  "description_zh": "输入 YouTube 视频链接，生成忠实原话的逐句跟读 PDF，附回听链接并自动保存到学习文件夹。",
+  "description_en": "Create faithful sentence-by-sentence shadowing PDFs from YouTube links, with replay links and local storage.",
+  "category": "writing",
+  "version": "0.1.0",
+  "author": "Babe153"
+}

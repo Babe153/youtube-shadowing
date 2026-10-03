@@ -1,0 +1,4 @@
+interface:
+  display_name: "YouTube Shadowing"
+  short_description: "Create faithful PDFs for sentence-by-sentence shadowing"
+  default_prompt: "Use $youtube-shadowing to turn this YouTube video into a shadowing PDF and save it to my learning folder."
